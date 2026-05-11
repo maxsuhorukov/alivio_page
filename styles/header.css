@@ -7,19 +7,12 @@
     align-items: center;
 }
 
-.header__nav {
-
-}
-
 .header__nav-list {
     display: flex;
     justify-content: start;
     align-items: center;
     column-gap: 70px;
     column-gap: min(70px, 4vw);
-}
-
-.header__nav-item {
 }
 
 .header__nav-link {
